@@ -11,7 +11,7 @@
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
+  background: #c675df;
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -79,7 +79,7 @@ nav .menu{
   text-align: center;
 }
 .center .title{
-  color: #fff;
+  color: #000000;
   font-size: 55px;
   font-weight: 600;
 }
