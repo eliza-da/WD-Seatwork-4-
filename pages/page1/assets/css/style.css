@@ -64,7 +64,7 @@ span {
   margin-top: 30px;
 }
 
-.hire {
+.about {
   font-size: 18px;
   background: #c159eb;
   color: #fff;
@@ -75,6 +75,6 @@ span {
   transition: 0.5s;
 }
 
-.hire:hover {
+.about:hover {
   background: #000;
 }
