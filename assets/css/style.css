@@ -53,15 +53,16 @@ nav .menu{
   background: #fff;
   color: black;
 }
-.img{
-  background: url("/assets/img/animal\ crossing\ wallpaper.jpeg")no-repeat;
+.wallpaper {
+  position: absolute;
+  object-fit: cover;
+  z-index: -1;
   width: 100%;
   height: 100vh;
-  background-size: cover;
-  background-position: center;
-  position: relative;
+  overflow: hidden;
+  filter: sepia(0.4) hue-rotate(-10deg) opacity(0.6);
 }
-.img::before{
+.wallpaper:before{
   content: '';
   position: absolute;
   height: 100%;
