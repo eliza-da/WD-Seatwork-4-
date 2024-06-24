@@ -24,7 +24,7 @@ nav .menu{
   justify-content: space-between;
   padding: 0 20px;
 }
-.menu .logo{
+.menu .logo a{
   height: 50px;
 }
 .menu ul{
@@ -76,7 +76,7 @@ nav .menu{
   text-align: center;
 }
 .center .title{
-  color: #856611;
+  color: #ffffff;
   font-size: 100px;
   font-weight: 600;
 }
