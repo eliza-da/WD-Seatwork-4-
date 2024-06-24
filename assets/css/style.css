@@ -48,7 +48,7 @@ nav .menu{
 }
 .menu ul li a:hover{
   background: #fff;
-  color: black;
+  color: rgb(192, 143, 7);
 }
 .wallpaper {
   position: absolute;
@@ -83,7 +83,7 @@ nav .menu{
 .center .sub_title{
   color: #fff;
   font-size: 52px;
-  font-weight: 300;
+  font-weight: 400;
 }
 .bottom{
   padding-bottom: 5rem;
@@ -102,16 +102,19 @@ nav .menu{
   border-radius: 5px;
   border: none;
   margin: 0 10px;
+  border: 2px solid white;
   font-size: 20px;
   font-weight: 500;
-  color: #fff;
-  background: none;
   padding: 0 10px;
   cursor: pointer;
   outline: none;
   transition: all 0.3s ease;
 }
+.center .btns button{
+  color: #fff;
+  background: none;
+}
 .btns button:hover{
   background: white;
-  color: black;
+  color: rgb(192, 143, 7);
 }
