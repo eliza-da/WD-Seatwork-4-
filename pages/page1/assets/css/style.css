@@ -13,7 +13,7 @@
   height: 100vh;
   width: 100%;
   padding: 90px 0;
-  background: #fff;
+  background: #96c775;
 }
 
 .pic {
@@ -67,7 +67,7 @@ span {
 .about {
   font-size: 18px;
   background: #ffffff;
-  color: #fff;
+  color: #528535;
   text-decoration: none;
   border: none;
   padding: 12px 25px;
