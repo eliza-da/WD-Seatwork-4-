@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assests/img/acnh leag.png" alt="logo" width="130" height="130">
+    <img src="./assests/img/acnh leaf.png" alt="logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
