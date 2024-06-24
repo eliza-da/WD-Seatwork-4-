@@ -35,7 +35,7 @@
   width: 540px;
 }
 
-.text h3 {
+.text h4 {
   color: #333;
   font-size: 90px;
   font-weight: 600;
@@ -50,7 +50,7 @@
 }
 
 span {
-  color: #96c775;
+  color: #528535;
 }
 
 .text p {
@@ -76,5 +76,5 @@ span {
 }
 
 .abt:hover {
-  background: #528535;
+  background: #96c775;
 }
