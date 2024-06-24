@@ -11,7 +11,7 @@
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
+  background: #b276b4;
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -50,11 +50,11 @@ nav .menu{
   transition: all 0.3s ease;
 }
 .menu ul li a:hover{
-  background: #fff;
+  background: #c14ac5;
   color: black;
 }
 .img{
-  background: url ('animal crossing wallpaper.jpeg') no-repeat;
+  background image: url("animal crossing wallpaper.jpeg");
   width: 100%;
   height: 100vh;
   background-size: cover;
