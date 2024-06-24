@@ -96,7 +96,7 @@ nav .menu{
   margin-top: 20px;
 }
 
-.center .btns button{
+.center .btns{
   height: 55px;
   width: 170px;
   border-radius: 5px;
@@ -110,15 +110,11 @@ nav .menu{
   outline: none;
   transition: all 0.3s ease;
 }
-.center .btns button:first-child{
+.center .btns:first-child{
   color: #fff;
   background: none;
 }
-.btns button:first-child:hover{
-  background: white;
-  color: black;
-}
-.center .btns button:last-child{
+.btns:first-child:hover{
   background: white;
   color: black;
 }
