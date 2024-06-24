@@ -35,7 +35,7 @@
   width: 540px;
 }
 
-.text h2 {
+.text h3 {
   color: #333;
   font-size: 90px;
   font-weight: 600;
@@ -64,7 +64,7 @@ span {
   margin-top: 30px;
 }
 
-.about {
+.abt {
   font-size: 18px;
   background: #ffffff;
   color: #528535;
@@ -75,6 +75,6 @@ span {
   transition: 0.5s;
 }
 
-.about:hover {
+.abt:hover {
   background: #528535;
 }
