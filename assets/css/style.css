@@ -85,9 +85,17 @@ nav .menu{
   font-size: 52px;
   font-weight: 300;
 }
+.bottom{
+  padding-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+}
 .center .btns{
   margin-top: 20px;
 }
+
 .center .btns button{
   height: 55px;
   width: 170px;
