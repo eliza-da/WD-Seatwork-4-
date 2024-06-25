@@ -10,7 +10,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #abe6cd;
+  background: #EED891;
 }
 .wrapper{
   position: relative;
@@ -22,7 +22,7 @@ body{
   position: relative;
   height: 100%;
   width: 100%;
-  background: url('/pages/about-us/assets/img/animal-crossing-wallpaper-2.png');
+  background: #D48600;
   transform-style: preserve-3d;
   transition: all 1s ease-in-out;
 }
@@ -36,6 +36,8 @@ body{
   height: 100%;
   width: 100%;
   background: #D48600;
+  border-top: 2px solid #cc6600;
+  border-left: 2px solid #cc6600;
   box-shadow: 0 5px 10px rgba(0,0,0,0.2);
   backface-visibility: hidden;
   position: absolute;
