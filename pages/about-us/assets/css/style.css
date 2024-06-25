@@ -101,7 +101,7 @@ body{
   background: #4d2600;
   transform: rotate(45deg);
 }
-.back.card .num{
+.back.card .text{
   font-size: 25px;
   font-weight: 600;
   color: #4d2600;
