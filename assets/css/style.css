@@ -118,6 +118,11 @@ p {
   outline: none;
   transition: all 0.3s ease;
 }
+
+.center .btns button a {
+  text-decoration: none;
+  color: #7c6035
+}
 .center .btns button:first-child {
   color: #fff;
   background: none;
