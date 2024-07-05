@@ -24,35 +24,6 @@
 
 ---
 
-<br />
-<br />
-
-<!-- TODO: If you want to add more layers for your readme -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
-    </li>
-    <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
-    </li>
-  </ol>
-</details>
-
----
-
 ## Overview
 
 <!-- TODO: To be changed -->
@@ -60,17 +31,32 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+1. What is the project
+- This project involves creating a "Features Display Website" that showcases diverse design layouts for various features using pure HTML and CSS. It will highlight different components such as cards, navigation menus, buttons, and forms, each with unique styles. Its design and theme mainly centered around the game: Animall Crossing.
+
+2. Whats the purpose
+- The purpose of the website is to show how you can create different and attractive web designs using only HTML and CSS. It aims to inspire and help web developers by displaying various layouts for features like cards, menus, buttons, and forms without using JavaScript or other tools.
+
+3. What are key components
+The key components of the website are:
+**Cards**: Various designs for displaying information or images.
+**Navigation Menus**: Different styles for website menus and navigation bars.
+**Buttons**: A range of button designs for different actions.
+
+
+4. What technology used and how it is used
+- The website is built using pure HTML and CSS, without relying on JavaScript or external frameworks under the use of VS Code.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+The key components for this website are:
+- Header
+- Navigation Menus/Buttons
+- Text
+- Cards
+- Layouts
+- Images and Media
+- Utility Classes
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,7 +103,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Flip Card Style | Reference for the "About Us" page flip card | codingnepalweb.com |
 
 
 [def]: /assets
